@@ -1,5 +1,5 @@
 name="Clown_Aura_A"
-version="1.0.4"
+version="1.0.5"
 url="https://raw.githubusercontent.com/the13clowns/resources/master/builds/Clown_Aura_A.zip"
 minor="http://"
 gui="https://raw.githubusercontent.com/the13clowns/resources/master/builds/Clown_Aura_A_guisettings.zip"
@@ -27,7 +27,7 @@ info="https://raw.githubusercontent.com/the13clowns/resources/master/builds/Clow
 description="Requires Vader or Force5 subscriptions. After install, reboot and wait about 1 min for the install to finish, enter Vader or Force5 informatation reboot. If Guide is blank go to submenu of TV GUIDE setting, EPG Settings, Configure PVR until prompted to reboot, up to 5 times!"
 
 name="Clown_Aura_A_18"
-version="1.0.1"
+version="1.0.2"
 url="https://raw.githubusercontent.com/the13clowns/resources/master/builds/Clown_Aura_A_18.zip"
 minor="http://"
 gui="https://raw.githubusercontent.com/the13clowns/resources/master/builds/Clown_Aura_A_18_guisettings.zip"
