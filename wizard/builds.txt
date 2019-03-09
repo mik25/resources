@@ -1,7 +1,3 @@
-id="plugin.program.wizard"
-version="2.0.5"
-zip="https://raw.githubusercontent.com/the13clowns/_zips/master/plugin.program.wizard/plugin.program.wizard-2.0.5.zip"
-
 name="Clown_Aura_A"
 version="1.0.4"
 url="https://raw.githubusercontent.com/the13clowns/resources/master/builds/Clown_Aura_A.zip"
