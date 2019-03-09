@@ -31,7 +31,7 @@ namespace UnfuckPyFiles
             int line_count = Convert.ToInt32(args[2]);
             bool chk = true;
             File.Copy(input_file, output_file);
-            Console.WriteLine("MuadDib is now bending The Joker over....");
+            Console.WriteLine("MuadDib is a JOKE....");
             while (chk)
             {
                 chk = ProcessFile(output_file, line_count);
@@ -44,7 +44,7 @@ namespace UnfuckPyFiles
             }
             if (File.Exists("iambatman.py"))
                 File.Delete("iambatman.py");
-            Console.WriteLine("The Joker is now his bitch. Your file has been unfucked.");
+            Console.WriteLine("The MAUD is a Fuck. Your file has been unfucked.");
         }
 
         private static bool ProcessFile(string output_file, int line_count)
